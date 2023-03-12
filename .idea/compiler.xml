@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="SeleniumJavaFramework" target="1.5" />
+      <module name="SeleniumJavaFramework suhas ar" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
